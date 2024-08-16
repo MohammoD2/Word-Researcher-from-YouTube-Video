@@ -20,13 +20,12 @@ To get started with the app, follow these instructions:
    ```bash
    git clone https://github.com/MohammoD2/Word-Researcher-from-YouTube-Video.git
 
-   
 2.**Navigate to the Project Directory:**
    ```bash
    cd Word-Researcher-from-YouTube-Video
 
 
-3.**Create and Activate a Virtual Environment (Optional but recommended):**
+##3.**Create and Activate a Virtual Environment (Optional but recommended):**
 
   ```bash
   python -m venv venv
