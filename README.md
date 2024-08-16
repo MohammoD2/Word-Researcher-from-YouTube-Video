@@ -1,0 +1,39 @@
+# Word Researcher from YouTube Video
+
+## Overview
+
+The "Word Researcher from YouTube Video" Streamlit app allows users to input a YouTube URL, extract the video's transcript, and perform word research on the transcript. This app provides a user-friendly interface to convert YouTube videos into text, analyze the content, and perform various research tasks.
+
+## Features
+
+- **Input YouTube URL:** Enter a URL of a YouTube video to fetch its transcript.
+- **Audio Extraction:** Convert the video into an audio file and play it directly within the app.
+- **Transcript Display:** View the transcript of the video.
+- **Word Research:** Analyze and explore specific words or phrases from the transcript.
+
+## Installation
+
+To get started with the app, follow these instructions:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/MohammoD2/Word-Researcher-from-YouTube-Video.git
+
+   
+Navigate to the Project Directory:
+
+cd Word-Researcher-from-YouTube-Video
+
+
+Create and Activate a Virtual Environment (Optional but recommended):
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+Install Required Packages:
+pip install -r requirements.txt
+
+Run the Streamlit App in terminal :
+
+streamlit run app.py
+
