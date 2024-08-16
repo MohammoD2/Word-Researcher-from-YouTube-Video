@@ -25,7 +25,7 @@ To get started with the app, follow these instructions:
    cd Word-Researcher-from-YouTube-Video
 
 
-3. **Create and Activate a Virtual Environment (Optional but recommended):**
+3.**Create and Activate a Virtual Environment (Optional but recommended):**
 
   python -m venv venv
 
@@ -36,6 +36,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
   pip install -r requirements.txt
 
 4.**Run the Streamlit App in terminal :**
+```bash
 
   streamlit run app.py
 
