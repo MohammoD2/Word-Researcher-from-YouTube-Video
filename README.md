@@ -28,18 +28,18 @@ To get started with the app, follow these instructions:
 
 3.**Create and Activate a Virtual Environment (Optional but recommended):**
 
-```bash
-python -m venv venv
+  ```bash
+  python -m venv venv
 
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3.**Install Required Packages:**
 
-```bash
-pip install -r requirements.txt
+  ```bash
+  pip install -r requirements.txt
 
 4.**Run the Streamlit App in terminal :**
 
-```bash
-streamlit run app.py
+  ```bash
+  streamlit run app.py
 
