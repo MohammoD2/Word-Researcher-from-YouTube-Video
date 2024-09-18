@@ -1,2 +1,2 @@
 streamlit
-from youtube_transcript_api import YouTubeTranscriptApi as yta
+youtube_transcript_api 
